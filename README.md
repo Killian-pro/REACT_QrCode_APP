@@ -13,4 +13,4 @@ un Qrcode qui référence différents journaux en ligne.
 	    							       
 BONNE UTILISATION
 ------------
-![screenshot](screenshot.jpg)
+![screenshot](Screenshot.jpg)
